@@ -1,24 +1,11 @@
 <template>
-<!-- <div>
-<el-container style="height: 500px; border: 1px solid #eee">  
-        <v-header></v-header>
-      
-            <v-asider></v-asider>
-            <el-main>
-                <router-view></router-view>
-            </el-main>
-            
-        
-        
-    </el-container>
-</div> -->
-<el-contaier class="wrapper">
+<div class="wrapper">
     <v-header></v-header>
-    <el-container style="height: 500px; border: 1px solid #eee">
+    <el-container>
         <v-asider></v-asider>
         <router-view></router-view>
     </el-container>
-</el-contaier>
+</div>
 
     
 </template>
