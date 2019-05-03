@@ -2,7 +2,7 @@
 
 ## 说明  ##
 
-用了Vue + Element组件库做了个后台管理系统(在master线上)
+用了Vue + Element组件库做了个后台管理系统(在master线上，发布一个master版本)
 
 
 ## 安装步骤 ##
