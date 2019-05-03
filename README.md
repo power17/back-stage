@@ -1,7 +1,7 @@
 # back-stage
 
 ## 说明  ##
-用了Vue + Element组件库做了个后台管理系统
+用了Vue + Element组件库做了个后台管理系统(现在是在dev分支上)
 
 ## 安装步骤 ##
 ```
