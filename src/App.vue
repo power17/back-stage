@@ -4,5 +4,9 @@
   </div>
 </template>
 
-<style lang="scss">
+<style lang="scss" scope>
+ @import './assets/css/index';
+ #app{
+   height: 100%;
+ }
 </style>
