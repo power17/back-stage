@@ -25,7 +25,7 @@
           <img src="../../assets/img/img.jpg">
         </div>
         <!-- 用户名下拉菜单 -->
-        <el-dropdown trigger='click' class="user-name" size="small">
+        <el-dropdown trigger="click" class="user-name" size="small">
           <span class="el-dropdown-link">
             admin
             <i class="el-icon-arrow-down el-icon--right"></i>
@@ -54,6 +54,7 @@ export default {};
   .collapse-btn {
     float: left;
     padding: 0 20px;
+    line-height: 70px;
   }
   .logo {
     float: left;
@@ -82,10 +83,10 @@ export default {};
           border-radius: 50%;
         }
       }
-      .user-name{
-          margin-left: 10px;
+      .user-name {
+        margin-left: 10px;
       }
-      
+
       .el-dropdown-link {
         cursor: pointer;
         color: #fff;
